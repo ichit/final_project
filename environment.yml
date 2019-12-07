@@ -6,3 +6,13 @@ dependencies:
   - xarray
   - cartopy
   - netcdf4
+  - dask
+  - jupyter
+  - jupyterlab
+  - xarray=0.12.3
+  - scipy
+  - proj4
+  - pyresample
+  - pandas
+  
+               
