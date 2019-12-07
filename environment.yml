@@ -5,3 +5,4 @@ dependencies:
   - matplotlib
   - xarray
   - cartopy
+  - netcdf4
