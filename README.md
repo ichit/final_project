@@ -4,7 +4,7 @@
 ### The variation trend and distribution study of CO2 concentration and temperature in North America 
 
 #### [Binder](https://mybinder.org/v2/gh/lx2251/final_project.git/master)
-##### Link:https://mybinder.org/v2/gh/lx2251/final_project.git/master 
+##### [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lx2251/final_project.git/master)
 
 ### Datasets: 
 #### [CO2 and temperature in N. America](ftp://aftp.cmdl.noaa.gov/products/carbontracker/co2/CT2017/molefractions/co2_total_monthly/)
